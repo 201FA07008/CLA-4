@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Website</title>
+    <link rel="stylesheet" href="personalpage.css">
+</head>
+<body>
+
+    <div class="hero">
+        <nav>
+            <img src="https://cdn.pixabay.com/photo/2021/10/12/11/03/background-6703215__340.png">
+            <ul>
+                <li><a href="PAge.html">Home</a></li>
+                <li><a href="ABOut.html">About me</a></li>
+             
+            </ul>
+        </nav>
+
+        <div class="content">
+            <span class="title">I am an Artist</span>
+            <h1>Hello, I’m <span>YUGANDHAR</span></h1>
+            <p>I am currently a student of Vignan University in Guntur.My hobby is painting.</p>
+            
+        </div>
+    </div>
+
+</body>
+</html>
